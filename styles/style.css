@@ -72,7 +72,7 @@ div{
 }
 .inicio-drone{
     background-image: url(/assets/wallpaper.jpg) ;
-    background-image: url(https://jorch11.github.io/AgroX/assets/wallpaper.jpg) ;
+    background-image: url(https://raw.githubusercontent.com/Jorch11/AgroX/main/assets/wallpaper.jpg) ;
     background-size: cover;
     height: 100vh;
     color: #fff;
